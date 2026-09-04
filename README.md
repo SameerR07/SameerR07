@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Sameer! 👋
 
-<!--
-**SameerR07/SameerR07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer and BCA student, constantly building and learning modern web technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+  Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+  Backend: Node.js, Express.js, RESTful APIs
+  Database:MongoDB
+  Tools & Platforms: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+  Building full-stack MERN applications
+  Exploring clean architecture & API optimization
+
+### 📈 GitHub Stats
+![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerR07&show_icons=true&theme=radical)
+
+### 🔗 Connect With Me
+  [LinkedIn](YOUR_LINKEDIN_URL)
+  [Portfolio](YOUR_PORTFOLIO_URL)
+  Email: sameer.gjimt1410@gmail.com
