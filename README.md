@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer and BCA student, constantly building and l
 
 ---
 
-### 📈 GitHub Activity & Stats
+### 📈 GitHub Activity & Status
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerR07&theme=tokyonight&hide_border=true" alt="Sameer's Streak" />
