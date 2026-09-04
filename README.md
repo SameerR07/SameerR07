@@ -18,13 +18,15 @@ I'm a passionate Full Stack Developer and BCA student, constantly building and l
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity & Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerR07&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Sameer's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerR07&theme=tokyonight&hide_border=true" alt="Sameer's Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerR07&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/SameerR07?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" alt="Status" />
 </p>
 
 ---
