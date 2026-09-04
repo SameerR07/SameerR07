@@ -13,7 +13,9 @@ I'm a passionate Full Stack Developer and BCA student, constantly building and l
   Exploring clean architecture & API optimization
 
 ### 📈 GitHub Stats
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerR07&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SameerR07&show_icons=true&theme=tokyonight" alt="Sameer's GitHub stats" />
+</p>
 
 ### 🔗 Connect With Me
   [LinkedIn](YOUR_LINKEDIN_URL)
